@@ -5,7 +5,7 @@
 ## Usage
 
 ```puppet
-include diffmerge
+include wireshark
 ```
 
 ## Required Puppet Modules

@@ -1,4 +1,4 @@
-# Skype Puppet Module for Boxen
+# Wireshark Puppet Module for Boxen
 
 [![Build Status](https://travis-ci.org/brockoffdev/puppet-diffmerge.png?branch=master)](https://travis-ci.org/brockoffdev/puppet-diffmerge)
 

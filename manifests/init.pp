@@ -1,11 +1,11 @@
-# Public: Install Diffmerge.app to /Applications.
+# Public: Install Wireshark.app to /Applications.
 #
 # Examples
 #
-#   include diffmerge
-class diffmerge {
-  package { 'DiffMerge':
+#   include wireshark
+class wireshark {
+  package { 'Wireshark':
     provider => 'appdmg_eula',
-    source   => 'http://download-us.sourcegear.com/DiffMerge/4.2.0/DiffMerge.4.2.0.697.intel.stable.dmg'
+    source   => 'https://2.na.dl.wireshark.org/osx/Wireshark%201.10.8%20Intel%2064.dmg'
   }
 }
